@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="mail" type="id" />
+    <item name="tv_mail" type="id" />
+    <item name="name" type="id" />
+    <item name="tv_phone" type="id" />
+    <item name="phone" type="id" />
+    <item name="password" type="id" />
+    <item name="tv_con_pass" type="id" />
+    <item name="con_pass" type="id" />
+    <item name="reg_btn" type="id" />
+    <item name="sign_tv" type="id" />
+    <item name="my_drawer_layout" type="id" />
+</resources>
