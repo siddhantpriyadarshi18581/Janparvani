@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Janaparvani</string>
+
+    <!--to toggle the open close button
+        of the navigation drawer-->
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <string name="select">Select Item</string>
+    <string name="support">Support</string>
+</resources>
